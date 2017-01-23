@@ -18,7 +18,9 @@ Welcome to Bebez-Overflow! We're a Stackoverflow clone CRUD app that was built u
 ##Contributors: 
 
 [Catherine Khuu](http://www.github.com/catkhuu)
+
 [Jesusmar Lima](http://www.github.com/jesusmarlima)
+
 [Nan Nanutza](http://www.github.com/nanutza)
 
 ##Technologies:
